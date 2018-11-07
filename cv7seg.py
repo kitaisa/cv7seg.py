@@ -3,7 +3,7 @@
 
 u'''
 WebカメラとOpenCVを使って7セグメントLEDの数値を読み取る
-'''
+'''/
 
 import os, time, itertools, urllib
 from ConfigParser import SafeConfigParser
